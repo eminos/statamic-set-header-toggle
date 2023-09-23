@@ -1,0 +1,14 @@
+{
+  "resources/js/statamic-set-header-toggle.css": {
+    "file": "assets/statamic-set-header-toggle-5e088f9f.css",
+    "src": "resources/js/statamic-set-header-toggle.css"
+  },
+  "resources/js/statamic-set-header-toggle.js": {
+    "css": [
+      "assets/statamic-set-header-toggle-5e088f9f.css"
+    ],
+    "file": "assets/statamic-set-header-toggle-654ae075.js",
+    "isEntry": true,
+    "src": "resources/js/statamic-set-header-toggle.js"
+  }
+}
