@@ -2,7 +2,7 @@
 
 A Statamic plugin to add a "Set Header Toggle" Fieldtype. Add toggles to Replicator and Bard set headers.
 
-![Screenshot of Tabs](docs/screenshot1.png)
+![Screenshot of Set Header Toggle](docs/screenshot1.png)
 
 ## Installation
 
@@ -28,7 +28,7 @@ This can be useful to control some rarely used or advanced settings, or if you'd
 
 Here is an example of a Set Header Toggle controlling the visibility of a Tab. Tabs can be added with the [Statamic Tabs](https://github.com/eminos/statamic-tabs) addon.
 
-![Screenshot of the blueprint editing with added tabs](docs/screenshot2.png)
+![Screenshot of a Set Header Toggle controling the visibility of a Tab](docs/screenshot2.png)
 
 ## Possible improvements
 
