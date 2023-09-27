@@ -34,6 +34,7 @@ Here is an example of a Set Header Toggle controlling the visibility of a Tab. T
 
 - Optionally group multiple toggles in a dropdown.
 - Tiny labels.
+- Add to Grid fieldtype item header.
 
 ## License
 

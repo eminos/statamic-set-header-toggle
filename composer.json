@@ -18,7 +18,7 @@
     },
     "extra": {
         "statamic": {
-            "name": "Statamic Field Item Relationship",
+            "name": "Statamic Set Header Toggle",
             "description": "A Statamic addon to be able to add extra mini toggles to replicator and bard set headers."
         },
         "laravel": {
